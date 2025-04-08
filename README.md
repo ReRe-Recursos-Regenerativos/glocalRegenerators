@@ -8,6 +8,8 @@
 
 **Network:** Celo Mainnet
 
+<img width=300px src="https://ats.infura-ipfs.io/ipfs/bafybeifn7t2mm7xemte327swu7oqhwpb5j6pq2lajcn4cyfuusv72clq6e" />
+
 **Contract Address:** 0xbfB71909622A2A5b4422015954bF35EF10a18D67
 
 **Check on Celo block explorer:** https://celo.blockscout.com/token/0xbfB71909622A2A5b4422015954bF35EF10a18D67

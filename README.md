@@ -10,6 +10,8 @@
 
 **Contract Address:** 0xbfB71909622A2A5b4422015954bF35EF10a18D67
 
+**Check on Celo block explorer:** https://celo.blockscout.com/token/0xbfB71909622A2A5b4422015954bF35EF10a18D67
+
 --- 
 ## 🌱 Context
 **ReRe (Regenerative Resources)** is a pioneering protocol driving the cultural transition of Web3 toward regeneration. Since 2022, it has hosted almost daily online meetings and weekly dynamics, where participants explore ReFi concepts, develop proof-of-concepts, and connect their challenges and abundances to the creation of collective value. In the long term, ReRe aims to co-create a new cyber layer called **Web3 Regen**. Through these interactions, ReRe has become a space for ongoing collective intelligence and the articulation of regenerative initiatives/projects in Brazil.

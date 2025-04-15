@@ -35,7 +35,8 @@ Glocal Regenerators is the natural evolution of this process — a living ecosys
 Glocal Regenerators already generates real impact through documented practices and catalyzes networks with replicable actions such as:
 - Partnership with **REGOSH**, **Modular Eco Industry**, and **Solarpunk Brasil** to apply decentralized resource allocation mechanisms on-chain to Free and Open Source Technology (FOST) projects.
 - Creation of trust-based listening networks.
-- Development of **commons pools** for shared resources.
+- Prototype frameworks for pooled funds and NFT-based community microfunds.
+- Development of **commons pools** for shareable resources.
 - Structuring of situated regenerative education with open methodologies that encourage critical thinking (e.g., critical onboarding).
 
 ## 🎥 @abundancerere 
@@ -61,7 +62,7 @@ To cultivate new mindsets and coordinate local actions that:
 - Connect emerging technologies with ancestral knowledge and glocal ecosystems for local regenerative action.
 - Link local problem-solving needs with the funding and tools of Web3 ReFi.
 
-## 🎯 About the Proposal
+## 🎯 Mission
 - **Culture of Reflection & Critique**: Expand critical onboarding of new people and projects through ReRe’s open daily sessions.
 - **Commons Knowledge**: Publish the ReRe Root Wiki to share and co-create free knowledge across the community.
 - **Open Innovation & Appropriate Technologies**: Foster the creation and “produsage” of FOST through DIWO (Do It With Others) workshops teaching people in urban, rural, and traditional communities to build context-appropriate autonomous solutions.
@@ -78,10 +79,6 @@ To cultivate new mindsets and coordinate local actions that:
   🧑🏽‍🤝‍🧑🏽 Empowering communities
   💰 Enabling resilient economies
 ---
-## 🎯 Expected Impact Over the Year
-- New coordination models based on justice and transparency.
-- Regenerative and intelligent use of resources.
-- Cultural transformation toward an ethical, inclusive, and regenerative Web3.
 
 # References:
 
